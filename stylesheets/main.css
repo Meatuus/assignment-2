@@ -1,0 +1,132 @@
+
+
+header {
+	display: inline-block;
+	background-color: #000066;
+	border-bottom: 10px solid #000000;
+  height: 100px;
+  margin: 0px 0px 10px 0px;
+  padding: 20px;
+  width: 100%;
+	text-align: center;
+}
+.contact {
+	display: inline-block;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.info {
+	display: block;
+	height: 10px;
+	width: 80%;
+	margin-top: 20px;
+	margin-left: 10%;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.profile {
+  float: left;
+	vertical-align: top;
+	width: 33%;
+	height: 300px;
+	margin: 0 0% 10px 1.5%;
+	margin-bottom: 10px;
+	text-align: left;
+	background-color: #def1ff;
+	border: 5px solid #000080;
+
+}
+
+.date {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+.emp {
+	width: 60%;
+}
+.day {
+	width: 30%;
+	text-align: right;
+}
+
+.employer {
+	display: block;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+
+.work {
+	float: right;
+	background-color: #def1ff;
+	width: 60%;
+	margin: 0 1.5% 10px 1.5%;
+	border: 5px solid #000080;
+}
+
+.school {
+	float: left;
+	background-color: #def1ff;
+	width: 33%;
+	height: 300px;
+	margin: 0 0 10px 1.5%;
+	border: 5px solid #000080;
+}
+
+.school p {
+	margin-left: 1.5%;
+}
+h1, h2, h3, h4, h5, p, div {
+	font-size: 100%;
+	font-family: courier;
+}
+h1 {
+	margin: 0;
+	margin-left: 5%;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font-family: courier;
+	font-size: 60px;
+	color: white;
+	vertical-align: baseline;
+	text-align: left;
+}
+h2 {
+	margin-left: 5px;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+}
+h3 {
+	margin-left: 3px;
+	font-size: 16px;
+}
+h4 {
+	margin: 0;
+	margin-left: 10px;
+	font-size: 16px;
+	font-style: italic;
+}
+h5 {
+	color: #ffffff;
+	font-size: 100%;
+	font-family: courier;
+	font-size: 15px;
+	margin: 0;
+}
+p {
+	margin: 0;
+}
+
+footer {
+	width: 100%;
+	text-align: center;
+	display: block;
+	margin-bottom: 0;
+	background-color: #000066;
+	border-top: 10px solid #000000;
+	clear: both;
+}
